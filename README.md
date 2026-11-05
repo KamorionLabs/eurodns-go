@@ -4,7 +4,10 @@ Go client for the [EuroDNS](https://www.eurodns.com) User REST API
 (`https://rest-api.eurodns.com`, spec at <https://docapi.eurodns.com>), focused on DNS
 zone management.
 
-> Status: **pre-alpha**. Not yet tested against the live EuroDNS API.
+> Status: **beta**. In production since November 2026 against the live EuroDNS API,
+> as the client of [eurodns-gate](https://github.com/KamorionLabs/eurodns-gate) and of
+> the [Terraform provider](https://github.com/KamorionLabs/terraform-provider-eurodns).
+> Versions are still 0.x: the API may change before 1.0.
 
 ## Packages
 
